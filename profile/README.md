@@ -49,5 +49,5 @@ Todo lo que ves aquí lo hacemos entre todos. La landing de [techtojob.com](http
 ---
 
 <div align="center">
-<sub>Hecho con 💙 por la comunidad de TechToJob · Español · English · Português</sub>
+<sub>Hecho por la comunidad de TechToJob · Español · English · Português</sub>
 </div>
