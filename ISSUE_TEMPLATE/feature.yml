@@ -1,0 +1,29 @@
+name: 💡 Proponer una idea
+description: Una funcionalidad o mejora para TechToJob
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué problema resuelve
+      description: ¿Qué echas en falta o qué se podría hacer mejor?
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Tu propuesta
+      description: Cómo lo harías.
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas
+      description: Otras formas de resolverlo que hayas pensado.
+  - type: checkboxes
+    id: ayuda
+    attributes:
+      label: ¿Te animas?
+      options:
+        - label: Me gustaría ayudar a construirlo

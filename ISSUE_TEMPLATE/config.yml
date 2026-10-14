@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Dudas y conversación
+    url: https://discord.gg/pzCa8esFGA
+    about: Para preguntas generales, pásate por el Discord.
+  - name: 🔒 Reportar un fallo de seguridad
+    url: mailto:contacto@techtojob.com
+    about: No abras un issue público; escríbenos por correo.
